@@ -1,0 +1,34 @@
+.icons {
+  position: absolute;
+  right: 10px;
+  background: transparent;
+}
+.text-color {
+  color: red;
+}
+.icon-delete {
+  display: none;
+}
+.icon-deletenot {
+  display: inline;
+}
+li {
+  list-style: none;
+  margin-left: 0;
+}
+ul {
+  padding-left: 0;
+}
+input:checked + e {
+  text-decoration: line-through;
+}
+.box {
+  max-width: 4px;
+  margin: 5px;
+}
+.item {
+  min-height: 70px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #f1f1f1;
+}
